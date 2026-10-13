@@ -5,7 +5,7 @@ export function AboutSection() {
     <section className="about section" id="about">
       <div className="container section-grid">
         <div className="section-title">
-          <span className="eyebrow">01 — ABOUT</span>
+          <span className="eyebrow">ABOUT</span>
           <h2>
             화면 너머의 흐름까지
             <br />
@@ -36,6 +36,11 @@ export function AboutSection() {
             COREWORK에서는 사용자·관리자 인사관리와 프로젝트 배포를,
             맛침내에서는 상세·랭킹 페이지와 결제 연동을 담당했습니다.
           </p>
+          <div className="evidence-stats" aria-label="협업 및 구현 범위">
+            <div><strong>2개</strong><span>직접 참여한 팀 프로젝트</span><p>COREWORK · 맛침내</p></div>
+            <div><strong>7명</strong><span>각 프로젝트의 팀 규모</span><p>두 프로젝트 모두 7인 팀 · 부팀장</p></div>
+            <div><strong>24항목</strong><span>COREWORK 인사관리 명세</span><p>사용자 12 + 관리자 12 · PDF 작업명세 기준</p></div>
+          </div>
           <div className="about-notes">
             <div>
               <Code2 size={20} />

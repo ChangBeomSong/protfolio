@@ -5,7 +5,7 @@ export function SkillsSection() {
       <div className="container">
         <div className="section-heading">
           <div>
-            <span className="eyebrow">03 — SKILLS</span>
+            <span className="eyebrow">SKILLS</span>
             <h2>프로젝트에서 사용한 기술.</h2>
           </div>
           <p>

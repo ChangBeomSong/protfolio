@@ -8,6 +8,7 @@ export const coreSkills = [
   "PostgreSQL",
   "AWS EC2",
   "Jenkins",
+  "Docker",
   "Nginx",
 ];
 export const foodSkills = [
@@ -31,6 +32,7 @@ export const foodRoles = [
   "맛집 랭킹 페이지",
   "숙소 상세 페이지",
   "Naver Pay API 결제",
+  "404 오류 페이지",
 ];
 export const coreDetails = [
   [

@@ -30,10 +30,9 @@ export function HeroSection() {
               </a>
             </div>
           </div>
-          <div className="hero-index">
-            <span>01 / IMPLEMENTATION</span>
-            <span>02 / INTEGRATION</span>
-            <span>03 / DEPLOYMENT</span>
+          <div className="experience-summary" aria-label="경험 요약">
+            <small>직접 경험한 개발 과정</small>
+            <p>기능 구현 <span>→</span> API 연동 <span>→</span> 서비스 배포</p>
           </div>
         </div>
         <div className="hero-foot">
