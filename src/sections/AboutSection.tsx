@@ -33,8 +33,8 @@ export function AboutSection() {
           </p>
           <p>
             두 번의 팀 프로젝트에서 맡은 기능을 직접 구현했습니다.
-            COREWORK에서는 사용자·관리자 인사관리와 프로젝트 배포를,
-            맛침내에서는 상세·랭킹 페이지와 결제 연동을 담당했습니다.
+            COREWORK에서는 <strong className="emphasis-role">사용자·관리자 인사관리와 프로젝트 배포</strong>를,
+            맛침내에서는 <strong className="emphasis-role">상세·랭킹 페이지와 결제 연동</strong>을 담당했습니다.
           </p>
           <div className="evidence-stats" aria-label="협업 및 구현 범위">
             <div><strong>2개</strong><span>직접 참여한 팀 프로젝트</span><p>COREWORK · 맛침내</p></div>
