@@ -13,14 +13,14 @@ export function ContactSection() {
           <p>송창범 · Developer</p>
         </div>
         <div className="contact-links">
-          <div className="contact-item">
+          <a className="contact-item" href="https://github.com/ChangBeomSong" target="_blank" rel="noopener noreferrer" aria-label="송창범 GitHub 프로필 새 탭에서 열기">
             <GitFork size={22} />
             <div>
               <strong>GitHub</strong>
-              <span>GitHub 주소 준비 중</span>
+              <span>github.com/ChangBeomSong</span>
             </div>
-            <span className="contact-status">PLACEHOLDER</span>
-          </div>
+            <ArrowUpRight size={18} />
+          </a>
           <a className="contact-item" href="mailto:thdckdqja226@naver.com">
             <Mail size={22} />
             <div>
